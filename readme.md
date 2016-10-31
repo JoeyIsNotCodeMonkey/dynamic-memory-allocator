@@ -1,5 +1,3 @@
-Name: Zewei Zhang
-ID: 108905249
+Simulating allocating memory, reallocating memory and deallocating memory using linked list. 
 
-1. Used one late day.
-2. Did not implement flag.
+Make the process visualized. 
